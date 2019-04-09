@@ -1,0 +1,17 @@
+{
+  "gitzone": {
+    "module": {
+      "githost": "gitlab.com",
+      "gitscope": "servezone",
+      "gitrepo": "healthy-ipc",
+      "shortDescription": "provide health information to healthy via inter process communication",
+      "npmPackagename": "@servezone/healthy-ipc",
+      "license": "MIT",
+      "projectDomain": "serve.zone"
+    }
+  },
+  "npmci": {
+    "npmGlobalTools": [],
+    "npmAccessLevel": "public"
+  }
+}
