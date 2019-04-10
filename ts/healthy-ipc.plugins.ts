@@ -1,2 +1,5 @@
-const removeme = {};
-export { removeme };
+import * as smartipc from '@pushrocks/smartipc';
+
+export {
+  smartipc
+};
